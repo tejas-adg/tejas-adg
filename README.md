@@ -2,26 +2,22 @@
 
 I build systems.
 
----
 
 ## Now
 
 * working on something new
 
----
 
 ## Direction
 
 Software shouldn't be flat.
 
----
 
 ## Notes
 
 Most of what I'm building isn't public yet.
 It will be.
 
----
 
 ## Elsewhere
 
