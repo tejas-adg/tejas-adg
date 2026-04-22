@@ -1,4 +1,32 @@
-### Hi there 👋
+# Hey.
+
+I build systems.
+
+---
+
+## Now
+
+* working on something new
+
+---
+
+## Direction
+
+Software shouldn't be flat.
+
+---
+
+## Notes
+
+Most of what I'm building isn't public yet.
+It will be.
+
+---
+
+## Elsewhere
+
+* GitHub: you're already here
+* more soon
 
 <!--
 **tejas-adg/tejas-adg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
