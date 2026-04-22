@@ -1,4 +1,4 @@
-# Hey.
+# Hey
 
 I build systems.
 
